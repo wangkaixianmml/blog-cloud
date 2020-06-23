@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/photos/index.html</loc>
+    
+    <lastmod>2020-06-23T04:59:36.465Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/06/23/hello-world/</loc>
+    
+    <lastmod>2020-06-23T04:24:03.992Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/06/21/test-my-site/</loc>
+    
+    <lastmod>2020-06-22T12:12:19.262Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-06-22T08:53:28.317Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-06-22T08:52:32.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2020-06-22T08:52:10.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-06-22T08:51:50.403Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/404.html</loc>
+    
+    <lastmod>2020-06-22T05:21:23.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/06/22/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</loc>
+    
+    <lastmod>2020-06-22T05:08:12.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/index.html</loc>
+    
+    <lastmod>2020-06-22T02:55:47.295Z</lastmod>
+    
+  </url>
+  
+</urlset>
